@@ -13,7 +13,7 @@
 <h3 align="left">Studying recently:</h3>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,ts,nodejs,figma" />
+    <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,figma" />
   </a>
 </p>
 
